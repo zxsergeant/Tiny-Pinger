@@ -16,7 +16,7 @@
 Для компиляции используется стандартный компилятор C# из .NET Framework 4:
 
 ```cmd
-C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe /out:TinyPinger.exe /reference:System.dll /reference:System.Drawing.dll /reference:System.Windows.Forms.dll Pinger.cs
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe /out:TinyPinger.exe /reference:System.dll /reference:System.Drawing.dll /reference:System.Windows.Forms.dll TinyPinger.cs
 ```
 
 ## Лицензия
